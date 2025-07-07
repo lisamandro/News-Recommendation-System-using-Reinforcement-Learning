@@ -47,4 +47,4 @@ Below is a sample result comparing different Multi-Armed Bandit algorithms on th
 2. Lihong Li, Wei Chu, John Langford, Xuanhui Wang.  
    **Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms.**  
    *Proceedings of the 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2011.*
-   https://arxiv.org/pdf/1003.5956.pdf
+    https://arxiv.org/pdf/1003.5956.pdf
