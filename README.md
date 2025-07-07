@@ -1,6 +1,6 @@
 # News Recommendation System using Reinforcement Learning
 
-This project implements a personalized news recommendation system using the using **multi-armed bandit algorithms** on the [MINDsmall dataset](https://msnews.github.io/). It evaluates and compares algorithms like **LinUCB**, **Thompson Sampling**, **UCB1**, and **Epsilon-Greedy** to simulate how well each method can predict what news articles a user will click.
+This project implements a personalized news recommendation system using the using multi-armed bandit algorithms. It evaluates and compares algorithms like Linear Upper Confidence Bound, Thompson Sampling, UCB1, and Epsilon-Greedy to model and predict user click behavior. By simulating user interactions, the system compares these algorithms in terms of Click-Through Rate (CTR) and decision efficiency, providing insights into their performance in real-world recommendation scenarios.
 
 ## Features
 
