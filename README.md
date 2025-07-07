@@ -41,10 +41,10 @@ Below is a sample result comparing different Multi-Armed Bandit algorithms on th
 
 1. Lihong Li, Wei Chu, John Langford, Robert E. Schapire.  
    **A Contextual-Bandit Approach to Personalized News Article Recommendation.**  
-   *Proceedings of the 19th International Conference on World Wide Web (WWW), 2010.*
-    https://arxiv.org/pdf/1003.0146.pdf
+   *Proceedings of the 19th International Conference on World Wide Web (WWW), 2010.*  
+   https://arxiv.org/pdf/1003.0146.pdf
 
-2. Lihong Li, Wei Chu, John Langford, Xuanhui Wang.  
+3. Lihong Li, Wei Chu, John Langford, Xuanhui Wang.  
    **Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms.**  
-   *Proceedings of the 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2011.*
+   *Proceedings of the 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2011.*  
     https://arxiv.org/pdf/1003.5956.pdf
